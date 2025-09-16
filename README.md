@@ -25,16 +25,19 @@ It is part of my portfolio for practicing **SQL, Python (pandas), and data engin
 ---
 
 ## 📊 Analysis Questions
-1. **Average Trip Duration by Passenger Count**  
-   → Do more passengers mean longer or shorter trips?  
 
-2. **Trips by Pickup Hour**  
-   → What times of day are the busiest for green taxis?  
+1. Average Trip Duration by Passenger Count
+→ Do more passengers mean longer or shorter trips?
 
-3. **Top 10 Pickup Zones by Volume**  
-   → Which locations generate the most demand?  
+2. Trips by Pickup Hour
+→ What times of day are the busiest for green taxis?
 
----
+3. Revenue by Payment Type
+→ Which payment methods generate the most revenue?
+
+4. Top 10 Pickup Zones by Volume
+→ Which locations generate the most demand?
+
 
 ## 📈 Visualizations
 - Line chart: **Trips by Pickup Hour**  
