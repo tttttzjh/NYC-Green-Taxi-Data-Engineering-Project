@@ -57,4 +57,4 @@ It is part of my portfolio for practicing **SQL, Python (pandas), and data engin
 ---
 
 ## 📧 Contact
-If you’d like to connect, reach out on [LinkedIn](https://linkedin.com/in/yourprofile).
+If you’d like to connect, reach out on [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/jihan-zheng-9a04771bb/).
