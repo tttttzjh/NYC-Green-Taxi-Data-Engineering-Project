@@ -1,7 +1,9 @@
-# NYC-Green-Taxi-Data-Engineering-Project
+# NYC Green Taxi Data Engineering Project
 
 This project demonstrates how to build a simple **data pipeline** and perform exploratory analysis using the NYC Green Taxi trip dataset.  
 It is part of my portfolio for practicing **SQL, Python (pandas), and data engineering concepts**.
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1eCTKV5YeUyJjqhZfoUxEJG7FyRoaNA-L?usp=sharing)
 
 ---
 
@@ -54,10 +56,5 @@ It is part of my portfolio for practicing **SQL, Python (pandas), and data engin
 
 ---
 
-## 📌 How to Run
-```bash
-# Clone repo
-git clone https://github.com/<your-username>/nyc-green-taxi-data-engineering.git
-cd nyc-green-taxi-data-engineering
-
-# Open Jupyter or Colab
+## 📧 Contact
+If you’d like to connect, reach out on [LinkedIn](https://linkedin.com/in/yourprofile).
